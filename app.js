@@ -14,16 +14,16 @@ booksApp.controller('booksController', function($scope) {
   $scope.books = [
     {
       title: 'Ready Player One',
-      description: 'Fast just got faster with Nexus S.',
+      description: 'The best book for older geeks',
       author: 'Ernest Cline'
     }, {
-      title: 'Motorola XOOM™ with Wi-Fi',
-      description: 'Fast just got faster with Nexus S.',
-      author: 'Ernest Cline'
+      title: 'The lord of the rings',
+      description: 'A child with hair on his feets is addicted to a toy',
+      author: 'J.R.R. Tolkien'
     }, {
-      title: 'MOTOROLA XOOM™',
-      description: 'Fast just got faster with Nexus S.',
-      author: 'Ernest Cline'
+      title: 'Game of thrones',
+      description: 'Everybody dies',
+      author: 'George R. Martin'
     }
   ];
 
